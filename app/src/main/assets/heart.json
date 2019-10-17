@@ -1,0 +1,264 @@
+{
+  "info": {
+    "status": "OK",
+    "time": {
+      "seconds": 0.01531195640564,
+      "human": "15 milliseconds"
+    }
+  },
+  "data": {
+    "id": 41959647,
+    "name": "Hungama Play for TV - Movies, Music, Videos, Kids",
+    "package": "com.hungama.movies.tv",
+    "uname": "hungama-play-hungama-digital-media-entertainment-pvt-ltd",
+    "size": 4864202,
+    "icon": "http://pool.img.aptoide.com/cvt-platform7/98a17f976bf842bead7fae77354e8321_icon.png",
+    "graphic": null,
+    "added": "2018-11-20 01:34:05",
+    "modified": "2018-11-20 01:34:05",
+    "updated": "2018-11-20 01:34:05",
+    "main_package": null,
+    "age": {
+      "name": "all",
+      "title": "Everyone",
+      "pegi": "PEGI-3",
+      "rating": 0
+    },
+    "developer": {
+      "id": 7202,
+      "name": "Hungama Digital Media Entertainment Pvt. Ltd.",
+      "website": "http://www.hungama.com",
+      "email": "hungamamyplay@gmail.com",
+      "privacy": "http://202.87.41.147/hungamaone/hungama_app/pp"
+    },
+    "store": {
+      "id": 1692207,
+      "name": "cvt-platform7",
+      "avatar": "http://pool.img.aptoide.com/cvt-platform7/3bf5adf05843f9f28c486d5ddef8f873_ravatar.jpg",
+      "appearance": {
+        "theme": "default",
+        "description": ""
+      },
+      "stats": {
+        "apps": 1368,
+        "subscribers": 2938,
+        "downloads": 2183356
+      }
+    },
+    "file": {
+      "vername": "1.0.2",
+      "vercode": 8,
+      "md5sum": "8b7fe4090becb1564aab2b16f9f01648",
+      "filesize": 4864202,
+      "path": "http://pool.apk.aptoide.com/cvt-platform7/com-hungama-movies-tv-8-41959647-8b7fe4090becb1564aab2b16f9f01648.apk",
+      "path_alt": "http://pool.apk.aptoide.com/cvt-platform7/alt/Y29tLWh1bmdhbWEtbW92aWVzLXR2LTgtNDE5NTk2NDctOGI3ZmU0MDkwYmVjYjE1NjRhYWIyYjE2ZjlmMDE2NDg.apk",
+      "signature": {
+        "sha1": "DD:62:70:2B:E4:F7:9F:80:64:7E:DB:02:90:A9:3A:66:F6:30:55:8D",
+        "owner": "OU=Hungama Apps, O=Hungama Digital Media Entertainment Limited, L=Mumbai, ST=Mah, C=91"
+      },
+      "hardware": {
+        "sdk": 21,
+        "screen": "SMALL",
+        "gles": 0,
+        "cpus": [],
+        "densities": [],
+        "dependencies": []
+      },
+      "malware": {
+        "rank": "TRUSTED",
+        "reason": {
+          "scanned": {
+            "status": "passed",
+            "date": "2019-02-19 19:27:28",
+            "av_info": [
+              {
+                "infections": [],
+                "name": "drweb 9.01.2"
+              },
+              {
+                "infections": [],
+                "name": "vipre 3.0.3.374"
+              },
+              {
+                "infections": [],
+                "name": "trendmicro 7.0.0.1443"
+              },
+              {
+                "infections": [],
+                "name": "mcafee"
+              },
+              {
+                "infections": [],
+                "name": "sophos 6.0.1789"
+              },
+              {
+                "infections": [],
+                "name": "zoner 1.11.0"
+              },
+              {
+                "infections": [],
+                "name": "ikarus 1.7.38"
+              },
+              {
+                "infections": [],
+                "name": "norton"
+              },
+              {
+                "infections": [],
+                "name": "fake_detector"
+              }
+            ]
+          },
+          "signature_validated": {
+            "date": "2018-11-20",
+            "status": "passed",
+            "signature_from": "market"
+          }
+        },
+        "added": "2018-11-20 01:33:13",
+        "modified": "2019-02-19 19:27:28"
+      },
+      "flags": {
+        "votes": [
+          {
+            "type": "FAKE",
+            "count": 0
+          },
+          {
+            "type": "FREEZE",
+            "count": 0
+          },
+          {
+            "type": "GOOD",
+            "count": 0
+          },
+          {
+            "type": "LICENSE",
+            "count": 1
+          },
+          {
+            "type": "VIRUS",
+            "count": 0
+          }
+        ]
+      },
+      "used_features": [
+        "android.hardware.screen.landscape",
+        "android.software.leanback"
+      ],
+      "used_permissions": [
+        "android.permission.ACCESS_NETWORK_STATE",
+        "android.permission.GET_ACCOUNTS",
+        "android.permission.INTERNET",
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.RECORD_AUDIO",
+        "android.permission.REORDER_TASKS",
+        "android.permission.WAKE_LOCK",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "com.android.vending.BILLING"
+      ],
+      "tags": []
+    },
+    "media": {
+      "keywords": [
+        "hungama",
+        "movies",
+        "entertainment",
+        "play",
+        "movies,",
+        "music,",
+        "videos,",
+        "kids"
+      ],
+      "description": "Get the best of Movies, TV Shows, Kids Shows & Films in English, Hindi and other Indian language at your fingertips and keep boredom at bay!\n\nHungama Play app offers carefully curated content designed to match your mood and preferences.\n\nWatch it. Love it!\n\nAt Hungama Play there is always something new on offer, from Hungama Recommendations to handpicked content that reflects the spirit of the moment from seasons and festivals to trending artists.\n\nExplore our extensive library of Movies, TV Shows, Short Films & Documentaries, Music Videos and Live Shows. We also have a vast range of Movies & TV Shows for our kiddie friends. Watch your favourites anytime, anywhere, choose from over 7500+ movies and 1500+ hours of TV across English, Hindi, Tamil, Telugu, Punjabi, Bengali and other languages. Explore Hungama Play today!\n\nMOVIES\n\nPocket the BIGGEST BLOCKBUSTERS from Hollywood, Bollywood and other Indian languages, across-genres. Choose anything from a star-studded, to a critically-acclaimed or award-winning film. We have something for everyone!\n\nOur BOLLYWOOD collection has the biggest hits of Salman Khan, Shah Rukh Khan, Ranbir Kapoor, Deepika Padukone and more, including super-hits like Prem Ratan Dhan Payo, Chennai Express, Tamasha, Khoobsurat, The Lunchbox, Haider & more. You can also choose from a variety of popular Bollywood classics like Andaz Apna Apna, Jaane Bhi Do Yaaro, Amar Prem and so much more.\n\nOur HOLLYWOOD collection features the latest, popular and award-winning stars like Tom Hanks, Robert De Niro, Al Pacino, Ben Affleck, Leonardo DiCaprio, Dwayne Johnson; and includes super-hits like Kong: Skull Island, Going In Style, Fantastic Beasts and Where to Find Them, Batman vs Superman: Dawn of Justice, Live By Night, Mad Max: Fury Road, The Conjuring amongst others. You can also rely on us for any future releases.\n\nOur REGIONAL MOVIES run the gamut from Telugu down south to Punjabi up north and include movies like Bahubali: The Beginning (Telugu), Natsamrat (Marathi), Thaandavam (Tamil), Nirbashito (Bengali), and Channo Kamli Yaar Di (Punjabi) etc.\n\nTV\n\nEnjoy a great selection of ENGLISH HINDI & TAMIL TELEVISION SHOWS and episodes such as critically acclaimed BBC content like Citizen Khan, Prey; as well as ITV content like Mr Selfridge, Beowulf & others.\n\nAlso on offer are POPULAR TITLES like Coupling, Mind Your Language, Top Gear and Tamil mega-serials like Vamsam and Ponnunjal. \n\nKIDS SHOWS\n\nGet the little ones tuned in to their favourite cartoons and shows \u2013 from Shaun The Sheep, Wallace & Gromit, Timmy Time to other favourites blockbusters like Storks, Brave, Toy Story, Happy Feet, Tangled etc.\n\nINDEPENDENT MOVIES, MUSIC VIDEOS AND MORE\n\nCatch short independent movies, live shows and music videos across languages.\n\nFEATURES & BENEFITS\n\n* Quickly access your preferred list of movies & TV shows by setting language & genre preferences\n\n* Access video controls in the Movie Player with your TV remote\n\n* Continue watching lets you resume a movie & episodes from where you left off last time\n\n* Add-to-watch-list helps you keep track of movies & TV shows you want to watch later\n\n* Unique interactive discovery feature lets a user find content in a fun way\n\n* Download Hungama Play and select from different plans and payment modes to access content on multiple devices with a single log in. Premium rentals are also available for a fixed period of time",
+      "summary": "Movies, TV Shows, Kids shows & more in English, Hindi & other Indian languages!",
+      "news": "Bug Fixes and Performance Improvements",
+      "videos": [],
+      "screenshots": [
+        {
+          "url": "http://pool.img.aptoide.com/cvt-platform7/f1351a498df3c4b78b9823f0ff3dda2d_screen.png",
+          "height": 720,
+          "width": 1280
+        },
+        {
+          "url": "http://pool.img.aptoide.com/cvt-platform7/c10be70ed092acd0b9e23e33fcf0b0c2_screen.png",
+          "height": 720,
+          "width": 1280
+        },
+        {
+          "url": "http://pool.img.aptoide.com/cvt-platform7/c34f42be1c0a0d58f345e2e1b3907aeb_screen.png",
+          "height": 720,
+          "width": 1280
+        }
+      ]
+    },
+    "urls": {
+      "w": "https://hungama-play-hungama-digital-media-entertainment-pvt-ltd.en.aptoide.com/?store_name=cvt-platform7&app_id=41959647",
+      "m": "https://hungama-play-hungama-digital-media-entertainment-pvt-ltd.en.aptoide.com/?store_name=cvt-platform7&app_id=41959647"
+    },
+    "stats": {
+      "rating": {
+        "avg": 0,
+        "total": 0,
+        "votes": [
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "prating": {
+        "avg": 0,
+        "total": 0,
+        "votes": [
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "downloads": 857,
+      "pdownloads": 1106
+    },
+    "obb": null,
+    "pay": null,
+    "appcoins": {
+      "advertising": false,
+      "billing": false,
+      "flags": []
+    }
+  }
+}
